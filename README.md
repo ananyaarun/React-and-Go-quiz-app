@@ -1,5 +1,5 @@
 # Go-React Quiz App
-SSAD Assignment 2
+Structured Systems Analysis and Design Assignment 2
 By Ananya Arun 20171019
 
 ## Go
