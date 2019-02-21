@@ -1,6 +1,6 @@
 # Go-React Quiz App
 Structured Systems Analysis and Design Assignment 2
-By Ananya Arun 20171019
+By Ananya Arun 
 
 ## Go
 ### Packages used in this code
